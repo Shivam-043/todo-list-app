@@ -3,7 +3,7 @@
 This repository contains code for Todo app with react-redux.
 
 View Demo:
-https://react-redux-todo-app-lac.vercel.app/
+http://nssnitkkr.me/todo-list-app/
 
 If you want to learn how to create it please follow below tutorial:
 
