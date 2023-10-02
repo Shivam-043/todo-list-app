@@ -22,7 +22,7 @@ function App() {
       >
         <Todos />
         <DisplayTodos />
-        <Footer/>
+        {/* <Footer/> */}
       </motion.div>
     </div>
   );
